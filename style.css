@@ -1,0 +1,43 @@
+body{
+    background-color: white
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    height: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    height: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.vasco{
+    width: 60%;
+    width: 500px;
+    height: 500px;
+}
+
+div{
+    width: 550px;
+    height: 500px;
+}
+
+a{
+    width: 15%;
+    height: 2px;
+    margin: auto;
+    display: block;
+    color: white;
+    font-size: 15px;
+}
+
+body{
+    background-image: url(https://uploads.metropoles.com/wp-content/uploads/2023/08/16080507/gettyimages-1246653264-612x612-1-600x400.jpeg);
+    width: 80%;
+}
